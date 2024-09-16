@@ -1,0 +1,16 @@
+BEGIN:VCARD
+VERSION:3.0
+PRODID:-//Apple Inc.//Mac OS X 10.15.5//EN
+N:;;;;
+FN:NIIC architettura di Nicolas Giger
+ORG:NIIC architettura di Nicolas Giger;
+EMAIL;type=INTERNET;type=pref:info@niic.ch
+TEL;type=WORK;type=VOICE;type=pref:+41 (0) 91 225 12 30
+TEL;type=WORK;type=FAX:+41 (0) 91 225 12 31
+TEL;type=CELL;type=VOICE:+41 079 731 73 16
+ADR;type=HOME;type=pref:;;Via San Leonardo 8;Robasacco;;6599;
+NOTE:Studio di Architettura
+item1.URL;type=pref:http://niic.ch
+item1.X-ABLabel:_$!<HomePage>!$_
+X-ABShowAs:COMPANY
+END:VCARD
